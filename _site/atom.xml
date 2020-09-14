@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Colorie</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-09-14T15:55:29-04:00</updated>
- <id>http://localhost:4000</id>
+ <title>Ryan Doyle | SaaS Products for Sales People</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2020-09-14T16:04:02-04:00</updated>
+ <id></id>
  <author>
-   <name>Colorie</name>
+   <name>Ryan Doyle</name>
    <email></email>
  </author>
 
  
  <entry>
    <title>First Commit</title>
-   <link href="http://localhost:4000/2020/09/04/first-commit"/>
+   <link href="/2020/09/04/first-commit"/>
    <updated>2020-09-04T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/09/04/First-Commit</id>
+   <id>/2020/09/04/First-Commit</id>
    <content type="html">&lt;p&gt;I always loved to build. It’s par for the course when you grow up on a farm. This farm was my father’s farm, and his father’s before that. Unlike them, I left when I had to opportunity to go to college.&lt;/p&gt;
 
 &lt;p&gt;My business classes were theory-heavy. I didn’t have the space of a farm to do my building in anymore, so I built small business ideas in my dorm to scratch that itch and put practicality to what I was learning.&lt;/p&gt;
