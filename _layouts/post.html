@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+
+
+<article role="article" class="post">
+	<div class="post-meta">
+  <h1>{{ page.title }}</h1>
+  <time class="date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+	</div>
+
+  {{ content }}
+
+  <br>
+
+  <p>
+      Tagged
+      {% for tag in page.tags %}
+      <a href="/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}.
+    </p>
+
+ <hr style="height:2px; border:none; margin: 2rem 0; background-color:#e7e9ee;">
+
+
+  {% disqus %}
+
+</article>
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://salesandstartups.us8.list-manage.com/subscribe/post?u=d0adf0338e1791174502d117f&amp;id=ed5afd3659" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll" style="text-align: center">
+	<label for="mce-EMAIL">Want updates? Subscribe below 👇</label>
+	<div class="input_group" style="display: flex; justify-content: center;">
+		<input type="email" value="" name="EMAIL" class="email email_input" id="mce-EMAIL" placeholder="email address" required style="margin: 0; height: 32px">
+		<div class="clear submit_button"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="margin-left: -15px; height: 32px"></div>
+	</div>
+	<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d0adf0338e1791174502d117f_ed5afd3659" tabindex="-1" value=""></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->

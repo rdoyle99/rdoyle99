@@ -1,0 +1,44 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Colorie",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "Colorie - Single column blog and portfolio Jekyll theme",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    
+    "author":  {
+        "name": "Colorie",
+        "url": null,
+        "avatar": null
+    },
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/2020/09/04/first-commit",
+            "title": "First Commit",
+            "summary": "I like a fresh start and a new challenge.",
+            "content_text": "I always loved to build. It’s par for the course when you grow up on a farm. This farm was my father’s farm, and his father’s before that. Unlike them, I left when I had to opportunity to go to college.My business classes were theory-heavy. I didn’t have the space of a farm to do my building in anymore, so I built small business ideas in my dorm to scratch that itch and put practicality to what I was learning.I knew I wanted to keep down that path. When I graduated, I got into a startup on the sales team because I figured it’d be my MBA. 4 years, a few promotions, and a lot of nights and weekends coding on the side later, I quit.Coronavirus, while terrible, presents an opportunity that I’ve always needed. The world is on pause and there’s no reason for me to not try this out on my own. It’s not like anyone’s hanging out without me. I’ve left a great job and a great team who wants what I’m building.Now - I just have to build it.",
+            "content_html": "<p>I always loved to build. It’s par for the course when you grow up on a farm. This farm was my father’s farm, and his father’s before that. Unlike them, I left when I had to opportunity to go to college.</p><p>My business classes were theory-heavy. I didn’t have the space of a farm to do my building in anymore, so I built small business ideas in my dorm to scratch that itch and put practicality to what I was learning.</p><p>I knew I wanted to keep down that path. When I graduated, I got into a startup on the sales team because I figured it’d be my MBA. 4 years, a few promotions, and a lot of nights and weekends coding on the side later, I quit.</p><p>Coronavirus, while terrible, presents an opportunity that I’ve always needed. The world is on pause and there’s no reason for me to not try this out on my own. It’s not like anyone’s hanging out without me. I’ve left a great job and a great team who wants what I’m building.</p><p>Now - I just have to build it.</p>",
+            "url": "http://localhost:4000/2020/09/04/first-commit",
+            
+            
+            
+            "tags": ["Personal","Projects"],
+            
+            "date_published": "2020-09-04T00:00:00-04:00",
+            "date_modified": "2020-09-04T00:00:00-04:00",
+            
+                "author":  {
+                "name": "Colorie",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        }
+    
+    ]
+}
