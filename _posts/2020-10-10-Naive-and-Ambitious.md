@@ -31,7 +31,7 @@ tags: [Personal, Projects]
 
   I got probably 50% of my calls, demos, and signups from this method. People were able to click on the personalized link, and I was able to use Chatty to engage them, just how they would engage their own prospects. Using your product to sell your product seemed to work.
 
-  ## Social Posting - meh
+  ##Social Posting - meh
   I shared a few things on Linkedin and Twitter. Mostly about what I was doing for the launch, not so much about the product itself. While this got a lot of social engagement and likes, it didn't translate into anything but tire kickers.
 
   ## Linkedin messaging - great
