@@ -2,7 +2,7 @@
 layout: post
 title: Direction Before Momentum
 description: Launched to my first users. Looking for feedback and usage.
-summary: Snowplowing through obstacles, and there are a lot
+summary: Searching for a foothold
 tags: [Personal, Projects]
 ---
 
