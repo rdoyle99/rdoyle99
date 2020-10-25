@@ -2,7 +2,7 @@
 layout: post
 title: First Commit
 description: I like a fresh start and a new challenge.
-summary: Quit my job, hacking full time
+summary: Quit my $150k a year job, hacking full time
 tags: [Personal, Projects]
 ---
 
