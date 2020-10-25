@@ -8,7 +8,9 @@ tags: [Personal, Projects]
 
  <h2> Bringing my Saas Out of Beta, Placing More Bets </h2>
 
- For the last month after quitting my job, I've been building a SaaS project that my old teammates wanted me to make for them. It's a tool for salespeople to chat with their prospects. Like Drift, but customizable for their needs, instead of one giant instance on a site.
+ For the last month after quitting my job, I've been building a SaaS project that my old teammates wanted me to make for them. It's a tool for salespeople to chat with their prospects. Like Drift, but customizable for their needs, instead of one giant instance on a site. It's called tryChatty.com.
+
+ After a beta period of 2 weeks with 30 users, I'm launching the paid version tomorrow and will be selling my own product on the hunt for my first paying user.
 
  It's been fun and daunting - I'm working with Slack and other APIs in a way I've never worked before. I'm a sales guy, not a developer after all. So I see setbacks mount:
   - Slack making me rework my app to add it to their marketplace
