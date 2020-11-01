@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Brick at a Time
+title: Wk 5 - One Brick at a Time
 description: Squashing bugs and gaining users
 summary: Doing what I can
 tags: [Personal, Projects]
@@ -16,4 +16,4 @@ tags: [Personal, Projects]
 
  It's scary doing cold sales for your baby. Someone could call it ugly. Or I could try and fail. There are always thoughts running through my mind of what I should be doing, or how I should be approaching launching a business.
 
- In either case, I have clear goalposts to go towards. My goal is to find one paying customer in October. If I don't find a paying customer by the end of November, then I can let the worrisome thoughts about the viability of this project take center stage. 
+ In either case, I have clear goalposts to go towards. My goal is to find one paying customer in October. If I don't find a paying customer by the end of November, then I can let the worrisome thoughts about the viability of this project take center stage.

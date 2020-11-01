@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Direction Before Momentum
+title: Wk 3 - Direction Before Momentum
 description: Launched to my first users. Looking for feedback and usage.
 summary: Searching for a foothold
 tags: [Personal, Projects]

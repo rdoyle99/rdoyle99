@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Early Weeks
+title: Wk 2 - Early Weeks
 description: Building the routine, hopefully building the business
 summary: Snowplowing through obstacles, and there are a lot
 tags: [Personal, Projects]
@@ -16,4 +16,4 @@ I had come to terms with it and was wireframing a new project, when a miraculous
 
  Even still, I'm getting more done on this business than ever. I've put 45+ commits into the Github repo for the project I'm working on, and I've got my first demos to prospective customers on Monday. Before I left my company I put a few ideas in front of my team. Of the several they wanted to buy, this project had the most immediate impact. If this week goes well, I can get more of the team in starting next week and will aim to start collecting payments in the next two weeks.
 
- It's nervewracking. I can see all the gaps and bugs. I see bugs that I know other people will see. But I have to ship V1 at some point to get that crucial customer feedback and, you know, money. Because a business isn't a business without revenue. 
+ It's nervewracking. I can see all the gaps and bugs. I see bugs that I know other people will see. But I have to ship V1 at some point to get that crucial customer feedback and, you know, money. Because a business isn't a business without revenue.

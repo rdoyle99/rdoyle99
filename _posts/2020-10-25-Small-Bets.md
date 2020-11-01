@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Portfolio of Small Bets
+title: Wk 6 - A Portfolio of Small Bets
 description: Hitting my rhythm
 summary: Hitting my rhythm
 tags: [Personal, Projects]

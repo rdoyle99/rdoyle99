@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Naive and Ambitious
+title: Wk 4 - Naive and Ambitious
 description: Finished my beta, moving forward
 summary: Excited yet terrified
 tags: [Personal, Projects]
