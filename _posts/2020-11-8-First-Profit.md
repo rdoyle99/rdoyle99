@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wk 8 - First Profit - $77 MRR
+title: Wk 8 - First Profit - $87 MRR
 description: One small step for Ryan, one great leap for Ryankind
 summary: One small step for Ryan, one great leap for Ryankind
 tags: [Personal, Projects]
@@ -8,7 +8,7 @@ tags: [Personal, Projects]
 
 Hit my first profit this week. It was a doozy. Between speaking at [Jack Butcher's office hours](https://twitter.com/jackbutcher/status/1324455808709627908) and launching SalesAdvice.io(https://SalesAdvice.io), I stayed busy.
 
-For the first time traffic was COMING to me, instead of me chasing it. I posted my first revenue: **$77 MRR.** Some of that is from [Chatty](https://trychatty.com/) (which I'm still planning on shutting down), some is from [SalesAdvice.io](https://salesadvice.io/) (which got 30 new subscribers after the Jack Butcher event).
+For the first time traffic was COMING to me, instead of me chasing it. I posted my first revenue: **$87 MRR.** Some of that is from [Chatty](https://trychatty.com/) (which I'm still planning on shutting down), some is from [SalesAdvice.io](https://salesadvice.io/) (which got 30 new subscribers after the Jack Butcher event).
 
 ![Mrr](https://i.imgur.com/8AhSIfw.png)
 ![Mrr1](https://i.imgur.com/hWUsrRL.png)
