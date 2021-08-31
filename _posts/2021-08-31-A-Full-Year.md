@@ -6,8 +6,9 @@ summary: Looking back, looking forward.
 tags: [Personal, Projects]
 ---
 
-> It's nervewracking. I can see all the gaps and bugs. I see bugs that I know other people will see. But I have > to ship V1 at some point to get that crucial customer feedback and, you know, money. Because a business isn't > a business without revenue.
-> \*A quote from one of my [first posts](https://ryanpdoyle.com/2020/09/26/early-weeks) on building software.
+> It's nervewracking. I can see all the gaps and bugs. I see bugs that I know other people will see. But I have to ship V1 at some point to get that crucial customer feedback and, you know, money. Because a business isn't > a business without revenue.
+
+\*A quote from one of my [first posts](https://ryanpdoyle.com/2020/09/26/early-weeks) on building software.
 
 A year ago, I quit my sales job, moved home, and started building software that I wish I would have had in my sales career. I'm not at \$10k MRR (yet) but here's what I do have:
 
@@ -26,7 +27,8 @@ Magic Sales Bot has been my everything for 7 months, after stumbling through a f
 
 I'm full-in on Magic Sales Bot because people want a solution to their cold email woes, as evidenced by my daily signup rate.
 
-##Why hasn't Magic Sales Bot taken off yet?
+## Why hasn't Magic Sales Bot taken off yet?
+
 You might see 2,500 users and \$900 MRR and think there's an incompatibility with those numbers. You're not wrong. I make it very easy to sign up and try Magic Sales Bot so that I can get feedback on what works and what doesn't from my users.
 
 I'm constantly running experiments based on user feedback. Right now, I'm testing out [if users even care about GPT-3](https://twitter.com/Ryan___Doyle/status/1430520055255769091]). With my daily 5-10 signups, I'm looking for signal that users are getting value out of the product. Those signals come in the shape of burning up their free trial credits and upgrading to a pro plan. Once I see that signal, I'll know I'm that much closer to product/market fit.
