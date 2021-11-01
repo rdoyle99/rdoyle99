@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A Pivot
+title: Founder Summit
 description: A first
-summary: Loving meeting my hero
+summary: Meeting heroes, adding zeroes
 tags: [Personal]
 ---
 
