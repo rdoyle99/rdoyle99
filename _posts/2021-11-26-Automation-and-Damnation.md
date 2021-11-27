@@ -4,6 +4,8 @@ title: Automation & Damnation
 description: Making it work... automagically
 summary: Making it work... automagically
 tags: [Personal]
+image:
+  path: ./favicon.png
 ---
 
 3 or so weeks into using my product to sell my product, via cold emails and demos.
